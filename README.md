@@ -1,3 +1,5 @@
+#没有做完！！目前没有教程
+
 ### 【Minecraft】北门苍云-新手教程(实时更新)入门到入土
 ##### Copyright © 2024 beimencangyun. All rights reserved.
 ##### 🚫未经作者允许，禁止转载！
