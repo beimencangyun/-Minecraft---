@@ -16,3 +16,7 @@ beimencangyun@Outlook.com
 
 
 - 2-入门
+  - 2.1[启动器选择](https://github.com/beimencangyun/beimencangyun-minecraft-tutorials/tree/main/a001/c001)
+  - 2.2[开始游戏](https://github.com/beimencangyun/beimencangyun-minecraft-tutorials/tree/main/a001/c002)
+  - 2.3[模组加载器选择和安装](https://github.com/beimencangyun/beimencangyun-minecraft-tutorials/tree/main/a001/c003)
+  - 2.4[进不去游戏？](https://github.com/beimencangyun/beimencangyun-minecraft-tutorials/tree/main/a001/c004)
